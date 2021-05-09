@@ -1,3 +1,13 @@
+/**
+ *Submitted for verification at BscScan.com on 2021-05-09
+*/
+
+/**
+   #Mosquito features:
+   3% fee auto add to the liquidity pool to locked forever when selling
+   2% fee auto distribute to all holders
+   50% Supply is burned at start.
+ */
 
 
   pragma solidity ^0.8.2;
